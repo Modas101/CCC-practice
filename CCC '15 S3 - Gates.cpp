@@ -5,7 +5,6 @@
 #include <utility>
 
 using namespace std;
-
 void solve() {
   int G, P;
   cin >> G >> P;
